@@ -1,5 +1,7 @@
 # Programmer focused keyboard layout based on a modified Colemak Mod-DH layout
 
+### Modifications from Colemak Mod-DH
+
 1. The base layer is focused on symbols, where the finger on the left hand used to open, is the same finger on the right hand to close the symbol.
 2. Additionally, the same finger on the left and right are used to complete: Page Up & Page Down, Up Arrow & Down Arrow, Home & End, Left Arrow & Right Arrow, Escape & Tab, Back Space & Space, Delete & Enter. 
 3. The alphabet keys are based on the Colemak Mod-DH layout, which is slightly less of a jump from QWERTY than Drovak, but the layout is modified to move the C and V letters to the right hand to better execute the commonly used 'ctrl+c' and 'ctrl+v' copy paste.
