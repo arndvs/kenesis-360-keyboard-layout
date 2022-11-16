@@ -7,6 +7,11 @@
 3. The alphabet keys are based on the Colemak Mod-DH layout, which is slightly less of a jump from QWERTY than Drovak, but the layout is modified to move the C and V letters to the right hand to better execute the commonly used 'ctrl+c' and 'ctrl+v' copy paste.
 4. On the shift layer there's numbers as well as common git command macros. 
 
+
+Base layer:
+![Base layer:](https://imgur.com/HQCuEkJ)
+
+
 # ADV360-PRO-ZMK
 
 ## To build Firmware in GitHub Actions
