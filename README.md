@@ -9,7 +9,8 @@
 
 
 Base layer:
-![Base layer:](https://imgur.com/HQCuEkJ)
+![Base layer:](https://i.imgur.com/HQCuEkJ.jpg)
+
 
 
 # ADV360-PRO-ZMK
