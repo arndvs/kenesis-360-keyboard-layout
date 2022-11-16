@@ -18,10 +18,10 @@ Fn:
 ![Fn:](https://imgur.com/VxyEyHk.jpg)
 
 Kinesis 360 Modification:
-![Kinesis 360 Modification:](https://i.imgur.com/HQCuEkJ.jpg)
+![Kinesis 360 Modification:](https://imgur.com/6NOFPeS.jpg)
 
 Layer 4 (Shift):
-![Layer 4 (Shift:](https://i.imgur.com/HQCuEkJ.jpg)
+![Layer 4 (Shift:](https://imgur.com/OXMoJje.jpg)
 
 
 
