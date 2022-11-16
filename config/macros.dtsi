@@ -1,3 +1,15 @@
+macro_git_pull: macro_git_pull{
+compatible = "zmk,behavior-macro";
+label = "macro_git_pull";
+#binding-cells = <0>;
+bindings = <&kp G>, <&kp I>, <&kp T>, <&kp SPACE>, <&kp P>, <&kp U>, <&kp L>, <&kp L>;
+};
+macro_npm_run_dev: macro_npm_run_dev{
+compatible = "zmk,behavior-macro";
+label = "macro_npm_run_dev";
+#binding-cells = <0>;
+bindings = <&kp N>, <&kp P>, <&kp M>, <&kp SPACE>, <&kp R>, <&kp U>, <&kp N>, <&kp SPACE>, <&kp D>, <&kp E>, <&kp V>;
+};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
@@ -9,12 +21,6 @@ compatible = "zmk,behavior-macro";
 label = "macro_dquotes";
 #binding-cells = <0>;
 bindings = <&kp DQT>, <&kp DQT>, <&kp LEFT>;
-};
-macro_braces: macro_braces{
-compatible = "zmk,behavior-macro";
-label = "macro_braces";
-#binding-cells = <0>;
-bindings = <&kp LBRC>, <&kp RBRC>, <&kp LEFT>;
 };
 macro_parens: macro_parens{
 compatible = "zmk,behavior-macro";
