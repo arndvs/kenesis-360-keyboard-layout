@@ -11,6 +11,18 @@
 Base layer:
 ![Base layer:](https://i.imgur.com/HQCuEkJ.jpg)
 
+Keypad:
+![Keypad:](https://imgur.com/46Z6fKs.jpg)
+
+Fn:
+![Fn:](https://imgur.com/VxyEyHk.jpg)
+
+Kinesis 360 Modification:
+![Kinesis 360 Modification:](https://i.imgur.com/HQCuEkJ.jpg)
+
+Layer 4 (Shift):
+![Layer 4 (Shift:](https://i.imgur.com/HQCuEkJ.jpg)
+
 
 
 # ADV360-PRO-ZMK
