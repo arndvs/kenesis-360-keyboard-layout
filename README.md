@@ -2,11 +2,10 @@
 
 ### Modifications from Colemak Mod-DH
 
-1. The base layer is focused on symbols, where the finger on the left hand used to open, is the same finger on the right hand to close the symbol.
-2. Additionally, the same finger on the left and right are used to complete: Page Up & Page Down, Up Arrow & Down Arrow, Home & End, Left Arrow & Right Arrow, Escape & Tab, Back Space & Space, Delete & Enter. 
-3. The alphabet keys are based on the Colemak Mod-DH layout, which is slightly less of a jump from QWERTY than Drovak, but the layout is modified to move the C and V letters to the right hand to better execute the commonly used 'ctrl+c' and 'ctrl+v' copy paste.
-4. On the shift layer there's numbers as well as common git command macros. 
-
+1. The base layer focuses on easy use of symbols. The finger on the left hand that's used to open a symbol, is the same finger on the right hand to close it.
+3. Additionally, the same fingers complete: Page Up & Page Down, Up Arrow & Down Arrow, Home & End, Left Arrow & Right Arrow, Escape & Tab, Back Space & Space, Delete & Enter. 
+4. The alpha keys are based on the Colemak Mod-DH layout. However, the layout is modified to move the C and V letters to the right hand. This improves execution of commonly used 'ctrl+c' and 'ctrl+v' copy/paste.
+5. The shift layer focuses on numbers as well as common git command macros. The numbers alternate left/right hand, similar to Dvorak. Odd numbers on the left hand and even numbers on the right hand. This keeps the most common numbers i.e. 1, 2, 3, 4 on the strongest fingers. It also allows quick back and forth typing on the strongest fingers. 
 
 Base layer:
 ![Base layer:](https://i.imgur.com/HQCuEkJ.jpg)
