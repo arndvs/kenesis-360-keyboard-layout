@@ -1,3 +1,5 @@
+# Keyboard layout based on a modified Colemak Mod-DH layout
+
 # ADV360-PRO-ZMK
 
 ## To build Firmware in GitHub Actions
