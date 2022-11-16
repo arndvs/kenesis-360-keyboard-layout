@@ -23,11 +23,11 @@
        "&kp LSHFT",  "&none",  "&none",  "&none",  "&none",    "&mo 1",                    "&none",       "&none", "&kp LEFT_ARROW",      "&none",        "&none", "&kp RIGHT_ARROW",             "&none",        "&none",  "&mo 4",  "&kp KP_N1", "&kp KP_N2", "&kp KP_N3", "&kp KP_ENTER", "&kp MINUS",
            "&mo 2",  "&none",  "&none",  "&none",  "&none", "&kp BSPC",                  "&kp DEL",  "&kp ESCAPE",        "&kp TAB",  "&kp ENTER",    "&kp SPACE",           "&none",         "&kp KP_N0",   "&kp KP_DOT",  "&mo 3", "&kp RSHIFT"
     ], [
-        "&mo 1", "&kp F1", "&kp F2", "&kp F3", "&kp F4", "&kp F5",           "&kp F6", "&kp F7", "&kp F8", "&kp F9", "&kp F10", "&kp F11", "&kp F12",  "&none",
+        "&none", "&kp F1", "&kp F2", "&kp F3", "&kp F4", "&kp F5",           "&kp F6", "&kp F7", "&kp F8", "&kp F9", "&kp F10", "&kp F11", "&kp F12",  "&none",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",  "&none", "&trans",  "&none",   "&none",   "&none",  "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none", "&trans", "&trans",                       "&trans",  "&trans",  "&none", "&trans",  "&none",  "&none",  "&none", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",  "&none", "&trans",  "&none",   "&none",  "&trans",   "&none",  "&none", "&trans",  "&none",  "&none",  "&none", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans",  "&mo 3", "&trans",           "&trans", "&trans", "&trans", "&trans",  "&trans",  "&trans",   "&none", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans",  "&mo 1",            "&none",  "&none", "&trans",  "&none",   "&none",  "&trans",   "&none",  "&none", "&trans",  "&none",  "&none",  "&none", "&trans", "&trans",
+        "&mo 2", "&trans", "&trans", "&trans",  "&none", "&trans",           "&trans", "&trans", "&trans", "&trans",  "&trans",  "&trans",   "&none", "&trans", "&trans", "&trans"
     ], [
         "&none", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3",    "&bt BT_SEL 4",                            "&none",      "&trans", "&bt BT_SEL 0", "&bt BT_SEL 1",    "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",                  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                      "&bootloader", "&bootloader",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",
@@ -38,8 +38,8 @@
        "&trans",   "&kp N9",    "&kp N7",        "&kp N5",         "&kp N3",        "&kp N1",            "&kp PAGE_DOWN", "&kp PG_UP",         "&kp N2",    "&kp N4",    "&kp N6",          "&kp N8",           "&kp N0",     "&kp PLUS",
        "&trans",   "&trans",    "&trans",        "&trans",         "&trans",        "&trans",                 "&kp HOME",   "&kp END",         "&trans",    "&trans",    "&trans",          "&trans",        "&kp COLON",     "&kp PIPE",
        "&trans",   "&trans",    "&trans",        "&trans",         "&trans",        "&trans",           "&kp DOWN_ARROW", "&kp LCTRL",   "&kp LEFT_ALT",                             "&kp RIGHT_ALT",        "&kp RCTRL", "&kp UP_ARROW", "&trans", "&trans", "&trans", "&trans",       "&trans", "&kp DOUBLE_QUOTES",
-       "&trans",   "&trans",    "&trans",        "&trans",         "&trans",        "&trans",                   "&trans",    "&trans", "&kp LEFT_ARROW",    "&trans",    "&trans", "&kp RIGHT_ARROW",           "&trans",       "&trans", "&trans", "&trans", "&trans", "&trans", "&kp QUESTION",    "&kp UNDERSCORE",
-       "&trans", "&kp LGUI", "&kp TILDE", "&kp LESS_THAN", "&kp LEFT_BRACE", "&kp BACKSPACE",               "&kp DELETE",   "&kp ESC",        "&kp TAB", "&kp ENTER", "&kp SPACE", "&kp RIGHT_BRACE", "&kp GREATER_THAN",       "&trans", "&trans", "&trans"
+       "&trans",   "&trans",    "&trans",        "&trans",         "&trans",         "&mo 1",                   "&trans",    "&trans", "&kp LEFT_ARROW",    "&trans",    "&trans", "&kp RIGHT_ARROW",           "&trans",       "&trans",  "&mo 4", "&trans", "&trans", "&trans", "&kp QUESTION",    "&kp UNDERSCORE",
+        "&mo 2", "&kp LGUI", "&kp TILDE", "&kp LESS_THAN", "&kp LEFT_BRACE", "&kp BACKSPACE",               "&kp DELETE",   "&kp ESC",        "&kp TAB", "&kp ENTER", "&kp SPACE", "&kp RIGHT_BRACE", "&kp GREATER_THAN",        "&mo 2",  "&mo 3", "&trans"
     ]
   ]
 }
