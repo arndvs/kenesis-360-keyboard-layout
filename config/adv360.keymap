@@ -59,11 +59,11 @@
 
         layer_fn {
             bindings = <
-  &none  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5            &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12   &none
- &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans   &none    &none    &none   &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                    &trans   &trans   &none  &trans   &none   &none   &none  &trans  &trans
- &trans  &trans  &trans  &trans  &trans   &mo 1             &none   &none  &trans   &none    &none   &trans    &none   &none  &trans   &none   &none   &none  &trans  &trans
-  &mo 2  &trans  &trans  &trans   &none  &trans            &trans  &trans  &trans  &trans   &trans   &trans    &none  &trans  &trans  &trans
+  &none        &kp F1  &kp F2  &kp F3  &kp F4             &kp F5            &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12   &none
+ &trans        &trans  &trans  &trans  &trans             &trans             &none   &none  &trans   &none    &none    &none   &trans  &trans
+ &trans  &macro_email  &trans  &trans  &trans             &trans             &none  &trans  &trans                    &trans   &trans   &none  &trans       &none        &none   &none  &trans  &trans
+ &trans        &trans  &trans  &trans  &trans              &mo 1             &none   &none  &trans   &none    &none   &trans    &none   &none  &trans  &kp K_COPY  &kp K_PASTE   &none  &trans  &trans
+  &mo 2        &trans  &trans  &trans   &none  &macro_close_file            &trans  &trans  &trans  &trans   &trans   &trans    &none  &trans  &trans      &trans
             >;
         };
 
@@ -79,11 +79,11 @@
 
         layer_Layer__4 {
             bindings = <
- &trans    &kp N9     &kp N7         &kp N5          &kp N3         &kp N1             &kp PAGE_DOWN  &kp PG_UP              &kp N2     &kp N4     &kp N6           &kp N8            &kp N0      &kp PLUS
- &trans    &trans     &trans         &trans          &trans         &trans                  &kp HOME    &kp END  &macro_npm_run_dev     &trans     &trans           &trans         &kp COLON      &kp PIPE
- &trans    &trans     &trans         &trans          &trans         &trans            &kp DOWN_ARROW  &kp LCTRL        &kp LEFT_ALT                          &kp RIGHT_ALT         &kp RCTRL  &kp UP_ARROW  &macro_git_pull           &trans  &trans  &trans        &trans  &kp DOUBLE_QUOTES
- &trans    &trans     &trans         &trans          &trans          &mo 1                    &trans     &trans      &kp LEFT_ARROW     &trans     &trans  &kp RIGHT_ARROW            &trans        &trans            &mo 4           &trans  &trans  &trans  &kp QUESTION     &kp UNDERSCORE
-  &mo 2  &kp LGUI  &kp TILDE  &kp LESS_THAN  &kp LEFT_BRACE  &kp BACKSPACE                &kp DELETE    &kp ESC             &kp TAB  &kp ENTER  &kp SPACE  &kp RIGHT_BRACE  &kp GREATER_THAN         &mo 2            &mo 3  &kp RIGHT_SHIFT
+ &trans        &kp N9     &kp N7         &kp N5           &kp N3         &kp N1             &kp PAGE_DOWN  &kp PG_UP              &kp N2     &kp N4     &kp N6           &kp N8            &kp N0      &kp PLUS
+ &trans        &trans     &trans         &trans  &kp PRINTSCREEN          &none                  &kp HOME    &kp END  &macro_npm_run_dev     &trans     &trans           &trans         &kp COLON      &kp PIPE
+ &trans  &macro_email     &trans         &trans           &trans         &trans            &kp DOWN_ARROW  &kp LCTRL        &kp LEFT_ALT                          &kp RIGHT_ALT         &kp RCTRL  &kp UP_ARROW  &macro_git_pull            &trans  &trans  &trans        &trans  &kp DOUBLE_QUOTES
+    &sk        &trans     &trans         &trans           &trans          &mo 1                    &trans     &trans      &kp LEFT_ARROW     &trans     &trans  &kp RIGHT_ARROW            &trans        &trans            &mo 4  &kp K_CALCULATOR  &trans  &trans  &kp QUESTION     &kp UNDERSCORE
+  &mo 2      &kp LGUI  &kp TILDE  &kp LESS_THAN   &kp LEFT_BRACE  &kp BACKSPACE                &kp DELETE    &kp ESC             &kp TAB  &kp ENTER  &kp SPACE  &kp RIGHT_BRACE  &kp GREATER_THAN         &mo 2            &mo 3   &kp RIGHT_SHIFT
             >;
         };
 
